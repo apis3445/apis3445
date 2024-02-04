@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hello! My name is Abigail Armijo. I learned programming when I was in high school, and I liked it a lot. I dedicate a lot of time to learning new things about programming. And I like to share my knowledge.
+
+If you like any of my repos [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U1U2V3V)
+
 <!--
 **apis3445/apis3445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
